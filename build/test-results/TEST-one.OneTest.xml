@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="one.OneTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2015-04-12T15:21:33" hostname="WA12-AL18060.local" time="0.007">
+  <properties/>
+  <testcase name="testName" classname="one.OneTest" time="0.007"/>
+  <system-out><![CDATA[hello
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
