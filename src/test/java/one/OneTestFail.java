@@ -9,7 +9,7 @@ public class OneTestFail {
 
     @Test
     public void testName() throws Exception {
-        assertThat(new One().hello(),is(false));
+        assertThat(new One().hello(),is(true));
 
     }
 }
